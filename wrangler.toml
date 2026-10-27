@@ -1,0 +1,13 @@
+name = "speakeasy"
+pages_build_output_dir = "dist"
+compatibility_date = "2024-12-01"
+
+# Uncomment after `npx wrangler d1 create speakeasy`
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "speakeasy"
+# database_id = "<your-database-id>"
+
+# [[kv_namespaces]]
+# binding = "RATE_LIMIT"
+# id = "<your-kv-id>"
